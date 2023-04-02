@@ -24,3 +24,8 @@ str3='(1000,2000,3000)'
 print(type(eval(str1)))
 print(type(eval(str2)))
 print(type(eval(str3)))
+
+#进制转换
+print(bin(98)) #2进制
+print(oct(98)) #8进制
+print(hex(98)) #16进制
